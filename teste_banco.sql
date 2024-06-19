@@ -28,6 +28,8 @@ INSERT INTO pedidos_produtos (pedido_id, produto_id, preco, quantidade) VALUES
 (1, 2, 130.00, 5), 
 (2, 3, 50.00, 5);
 
+/*
 INSERT INTO Admins (username, password, isAdmin)
 VALUES ('admin', '$2a$10$CwTycUXWue0Thq9StjUM0uZ0.3E2U0Lg6B1grYzPPL9CwGkQVP2m6', true);
+*/
 
